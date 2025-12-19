@@ -41,4 +41,4 @@
 ---
 
 ## Репозиторій проєкту
-[Beerhood/beer-shop-ai-api](https://github.com/Beerhood/beer-shop-ai-api)
+[Beerhood/beer-shop-ai-api](https://github.com/Beerhood/beer-shop-ai-api/tree/test/load)
